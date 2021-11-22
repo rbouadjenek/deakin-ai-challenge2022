@@ -126,7 +126,7 @@ We wish you all the best!
 
 JOIN the **Deakin Simpsons Challenge 2022** Webinar on **XXX, March XXth at XX:XX PM**. This webinar will review procedures and tips for participating and offer a live Q&A session with the challenge organizers and AI experts.
 
-<s>Please [register for the Webinar here]()!</s>
+Please [register for the Webinar here]()!
 
 
 [Link to the Webinar recording!]()
