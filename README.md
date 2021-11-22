@@ -30,7 +30,7 @@ As participants, your goal is to build a machine learning model to  answer a  na
 
 To achieve this task, you will be using the [VQA v2.0 dataset](https://visualqa.org/download.html) to train your model and tune your hyperparameters. 
 
-Once you have built your model, you will have to submit it on the [CodaLab]() platform to be evaluated. 
+Once you have built your model, you will have to submit it on the [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/317?secret_key=1aab176a-2a97-46da-a214-711ff65b7e01) platform to be evaluated. 
 We evaluate the performance of your model using the [Accuracy](https://visualqa.org/evaluation.html)  on a private test set that we have directly collected and labeled from TV show episodes.
 Once the evaluation completed, your entry will appear on the leaderboard to see your performance against other competitors.
 
@@ -112,9 +112,9 @@ This competition serves many purposes:
 
 Follow these steps:
 
-1. Register to the [CodaLab]() platform, then register to the competition on [CodaLab]().
+1. Register to the [CodaLab](https://codalab.lisn.upsaclay.fr/accounts/login/?next=/) platform, then register to the competition on [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/317?secret_key=1aab176a-2a97-46da-a214-711ff65b7e01).
 3. You can participate individually or in a team. There cannot be more than 3 students in a team **(all team members need to register to the competition)**.
-4. To find team members, you can post a message on the discussion forum on [CodaLab](). Once you have built your team, the team leader needs to contact [Mohamed Reda Bouadjenek](https://rbouadjenek.github.io/) with the names of the members, their **CodaLab usernames**, the Deakin course in which they are enrolled, and the name of the team.
+4. To find team members, you can post a message on the discussion forum on [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/317?secret_key=1aab176a-2a97-46da-a214-711ff65b7e01). Once you have built your team, the team leader needs to contact [Mohamed Reda Bouadjenek](https://rbouadjenek.github.io/) with the names of the members, their **CodaLab usernames**, the Deakin course in which they are enrolled, and the name of the team.
 5. Please [fork this GitHub repository](https://github.com/rbouadjenek/deakin-ai-challenge2022/fork) and make it **private**. Then, click [here to open the Notebook in Google Colab ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rbouadjenek/deakin-ai-challenge2022/blob/main/deakin_ai_challenge_training.ipynb). 
 6. Just follow the instructions!
 
