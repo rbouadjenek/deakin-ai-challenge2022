@@ -50,13 +50,13 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 TBD.
 
 # Timeline <a name="Timeline"></a>
-- `XX.03.21:` Contest and Phase 1 Begin (Validation Leaderboard opens).
-- `XX.03.21:` [Join the Webinar at X:XX PM to review procedures and for a live Q&A session]().
-- `XX.05.21:` Phase 2 Begin (Testing Leaderboard opens) 🚨 **ONLY TWO SUBMISSIONS IS ALLOWED FOR THE TEST PHASE! PLEASE MAKE SURE TO SUBMIT YOUR BEST MODEL FROM  PHASE 1!** 🚨.
-- `XX.05.21:` Last Shot & Contest End (Testing Leaderboard closes).
-- `XX.05.21:` Semi-Finalists Announcement (top six teams on the Testing Leaderboard).
-- `XX.06.21:` Report & Code Due.
-- `XX.06.21:` Winners Announcement.
+- `XX.03.22:` Contest and Phase 1 Begin (Validation Leaderboard opens).
+- `XX.03.22:` [Join the Webinar at X:XX PM to review procedures and for a live Q&A session]().
+- `XX.05.22:` Phase 2 Begin (Testing Leaderboard opens) 🚨 **ONLY TWO SUBMISSIONS IS ALLOWED FOR THE TEST PHASE! PLEASE MAKE SURE TO SUBMIT YOUR BEST MODEL FROM  PHASE 1!** 🚨.
+- `XX.05.22:` Last Shot & Contest End (Testing Leaderboard closes).
+- `XX.05.22:` Semi-Finalists Announcement (top six teams on the Testing Leaderboard).
+- `XX.06.22:` Report & Code Due.
+- `XX.06.22:` Winners Announcement.
 
 # Eligibility<a name="Eligibility"></a>
 
