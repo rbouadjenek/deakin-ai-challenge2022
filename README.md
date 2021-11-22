@@ -28,10 +28,10 @@ The **Deakin Simpsons challenge 2022** is a computer vision competition for whic
 
 As participants, your goal is to build a machine learning model to  answer a  natural language question given an image of Simpsons using machine learning and deep learning.
 
-To achieve this task, you will be given a data set that consists of XXX images to train your model and tune your hyperparameters. 
+To achieve this task, you will be using the [VQA v2.0 dataset](https://visualqa.org/download.html) to train your model and tune your hyperparameters. 
 
-Once you have built your model, you will have to submit it on the [CodaLab](https://competitions.codalab.org/competitions/27191?secret_key=f0a7cc3e-7f78-4bb1-8564-95bc2fadafa5) platform to be evaluated. 
-We evaluate the performance of your model using the [Accuracy](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html)  on a private test set that we have directly collected and labeled from TV show episodes.
+Once you have built your model, you will have to submit it on the [CodaLab]() platform to be evaluated. 
+We evaluate the performance of your model using the [Accuracy](https://visualqa.org/evaluation.html)  on a private test set that we have directly collected and labeled from TV show episodes.
 Once the evaluation completed, your entry will appear on the leaderboard to see your performance against other competitors.
 
 
@@ -50,20 +50,20 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 TBD.
 
 # Timeline <a name="Timeline"></a>
-- <s>`15.03.21:` Contest and Phase 1 Begin (Validation Leaderboard opens).</s>
-- <s>`16.03.21:` [Join the Webinar at 5:30 PM to review procedures and for a live Q&A session](https://deakin-simpsons-challenge-2021.eventbrite.com).</s>
-- <s>`15.05.21:` Phase 2 Begin (Testing Leaderboard opens) 🚨 **ONLY TWO SUBMISSIONS IS ALLOWED FOR THE TEST PHASE! PLEASE MAKE SURE TO SUBMIT YOUR BEST MODEL FROM  PHASE 1!** 🚨.</s>
-- <s>`22.05.21:` Last Shot & Contest End (Testing Leaderboard closes).</s>
-- <s>`23.05.21:` Semi-Finalists Announcement (top six teams on the Testing Leaderboard).</s>
-- <s>`05.06.21:` Report & Code Due.</s>
-- <s>`17.06.21:` Winners Announcement.</s>
+- `XX.03.21:` Contest and Phase 1 Begin (Validation Leaderboard opens).
+- `XX.03.21:` [Join the Webinar at X:XX PM to review procedures and for a live Q&A session]().
+- `XX.05.21:` Phase 2 Begin (Testing Leaderboard opens) 🚨 **ONLY TWO SUBMISSIONS IS ALLOWED FOR THE TEST PHASE! PLEASE MAKE SURE TO SUBMIT YOUR BEST MODEL FROM  PHASE 1!** 🚨.
+- `XX.05.21:` Last Shot & Contest End (Testing Leaderboard closes).
+- `XX.05.21:` Semi-Finalists Announcement (top six teams on the Testing Leaderboard).
+- `XX.06.21:` Report & Code Due.
+- `XX.06.21:` Winners Announcement.
 
 # Eligibility<a name="Eligibility"></a>
 
 The competition is open to all Deakin's students enrolled in a course within the School of IT. Also, in order to be eligible for any award, the semi-finalists are required to:
 
-- 🚨 Achieve at least **80%** accuracy for the test phase.
-- 🚨 Submit a report, which describes the solution by the stipulated deadline  (4 pages **maximum**, using the [Master Article Template – LaTeX](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt), with the “sigconf” option). Please use the following [easychair link](https://easychair.org/conferences/?conf=deakinsimpsonschallenge2021) to submit your report. The reports will eventually be made publicly available on the website.
+- 🚨 Submit your model to the test leaderboard.
+- 🚨 Submit a report, which describes the solution by the stipulated deadline  (4 pages **maximum**, using the [Master Article Template – LaTeX](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt), with the “sigconf” option). Please use the following [easychair link]() to submit your report. The reports will eventually be made publicly available on the website.
 - 🚨 Provide a link of the Github repo of the solution in the report. The submitted codes and reports may be inspected to check the validity of the solution. 
 
 
@@ -112,24 +112,24 @@ This competition serves many purposes:
 
 Follow these steps:
 
-1. Register to the [CodaLab](https://competitions.codalab.org/accounts/signup/?next=/) platform, then register to the competition on [CodaLab](https://competitions.codalab.org/competitions/27191?secret_key=f0a7cc3e-7f78-4bb1-8564-95bc2fadafa5).
+1. Register to the [CodaLab]() platform, then register to the competition on [CodaLab]().
 3. You can participate individually or in a team. There cannot be more than 3 students in a team **(all team members need to register to the competition)**.
-4. To find team members, you can post a message on the discussion forum on [CodaLab](https://competitions.codalab.org/competitions/27191?secret_key=f0a7cc3e-7f78-4bb1-8564-95bc2fadafa5). Once you have built your team, the team leader needs to contact [Mohamed Reda Bouadjenek](https://rbouadjenek.github.io/) with the names of the members, their **CodaLab usernames**, the Deakin course in which they are enrolled, and the name of the team.
-5. Please [fork this GitHub repository](https://github.com/rbouadjenek/deakin-simpsons-challenge2020/fork) and make it **private**. Then, click [here to open the Notebook in Google Colab ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rbouadjenek/deakin-simpsons-challenge2020/blob/main/deakin_ai_challenge_training.ipynb). 
+4. To find team members, you can post a message on the discussion forum on [CodaLab](). Once you have built your team, the team leader needs to contact [Mohamed Reda Bouadjenek](https://rbouadjenek.github.io/) with the names of the members, their **CodaLab usernames**, the Deakin course in which they are enrolled, and the name of the team.
+5. Please [fork this GitHub repository](https://github.com/rbouadjenek/deakin-ai-challenge2022/fork) and make it **private**. Then, click [here to open the Notebook in Google Colab ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rbouadjenek/deakin-ai-challenge2022/blob/main/deakin_ai_challenge_training.ipynb). 
 6. Just follow the instructions!
 
 We wish you all the best!
 
-# Deakin Simpsons Challenge 2021 Webinar <a name="Webinar"></a>
+# Deakin Simpsons Challenge 2022 Webinar <a name="Webinar"></a>
 
 
 
-<s>JOIN the **Deakin Simpsons Challenge 2021** Webinar on **Tuesday, March 16th at 5:30 PM**. This webinar will review procedures and tips for participating and offer a live Q&A session with the challenge organizers and AI experts.</s>
+JOIN the **Deakin Simpsons Challenge 2022** Webinar on **XXX, March XXth at XX:XX PM**. This webinar will review procedures and tips for participating and offer a live Q&A session with the challenge organizers and AI experts.
 
-<s>Please [register for the Webinar here](https://deakin-simpsons-challenge-2021.eventbrite.com)!</s>
+<s>Please [register for the Webinar here]()!</s>
 
 
-[Link to the Webinar recording!](https://deakin.zoom.us/rec/share/SzysnTDdbbtbNLGbvINSjb88X1y_ESVse8woSYXSkM7OnZAjHe3irgO4SXAzLN2v.jH8n1TFQw1ee3cln)
+[Link to the Webinar recording!]()
 
 
 
@@ -149,7 +149,7 @@ We wish you all the best!
 
 # Acknowledgment<a name="Acknowledgment"></a>
 
-The **Deakin Simpsons Challenge 2021** is organized by the [School of Information Technology](https://www.deakin.edu.au/information-technology), Faculty of Sci Eng & Built Env (SEBE) at [Deakin University](https://www.deakin.edu.au/).
+The **Deakin Simpsons Challenge 2022** is organized by the [School of Information Technology](https://www.deakin.edu.au/information-technology), Faculty of Sci Eng & Built Env (SEBE) at [Deakin University](https://www.deakin.edu.au/).
 
 <p align="left">
   <img src="images/deakin2.png" width="200" >
