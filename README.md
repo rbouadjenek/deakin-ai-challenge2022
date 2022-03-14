@@ -71,7 +71,7 @@ The competition is open to all Deakin's students enrolled in a course within the
 # Prizes and Sponsors<a name="Sponsors"></a>
 
 
-The winners of the **Deakin Simpsons Challenge 2021** await non-cash prizes worth **AUD3,000** funded by [Community Bank at Deakin University](https://www.bendigobank.com.au/community/universities/community-bank-deakin-university/). 
+The winners of the **Deakin Simpsons Challenge 2022** await non-cash prizes worth **AUD3,000** funded by [Community Bank at Deakin University](https://www.bendigobank.com.au/community/universities/community-bank-deakin-university/). 
 
 <p align="center">
 <img src="images/DUCB_logo.png"  width="200" >
@@ -161,6 +161,8 @@ The **Deakin Simpsons Challenge 2022** is organized by the [School of Informatio
 
 - **[Mohamed Reda Bouadjenek](https://rbouadjenek.github.io/)** - Organization, technical design, development, and data preparation.
 - **Sunil Aryal** - technical design, and support to students.
+- **Muhammad Zeeshan Khan** - data labeling and support to students.
+- **Vinayaka Vivekananda Malgi** - data labeling and support to students.
 
 
 **School of Information Technology, Faculty of Sci Eng & Built Env**
