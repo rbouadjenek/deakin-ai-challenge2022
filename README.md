@@ -80,7 +80,7 @@ The winners of the **Deakin Simpsons Challenge 2022** await non-cash prizes wort
 
 The prizes will be distributed among the participants as follows:
 
-- 🥇 The 1st Place receives a non-cash prize equivalent of 🏆**AUD1400**🏆.
+- 🥇 The 1st Place receives a non-cash prize equivalent of 🏆**AUD1,400**🏆.
 - 🥈 The 2nd Place receives a non-cash prize equivalent of **AUD400**.
 - 🥉 The 3rd Place receives a non-cash prize equivalent of **AUD400**.
 - 🎁 The 4th Place will also receive a non-cash prize equivalent of **AUD400**.
