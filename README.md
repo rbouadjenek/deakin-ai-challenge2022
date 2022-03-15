@@ -71,7 +71,7 @@ The competition is open to all Deakin's students enrolled in a course within the
 # Prizes and Sponsors<a name="Sponsors"></a>
 
 
-The winners of the **Deakin Simpsons Challenge 2022** await non-cash prizes worth **AUD3,000** funded by [Community Bank at Deakin University](https://www.bendigobank.com.au/community/universities/community-bank-deakin-university/). 
+The winners of the **Deakin Simpsons Challenge 2022** await non-cash prizes worth 🏆**AUD3,000**🏆 funded by [Community Bank at Deakin University](https://www.bendigobank.com.au/community/universities/community-bank-deakin-university/). 
 
 <p align="center">
 <img src="images/DUCB_logo.png"  width="200" >
