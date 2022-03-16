@@ -7,7 +7,14 @@
   <img src="images/Simpsons_cast.png">
 </p>
 
-The **Deakin Simpsons challenge 2022** is a computer vision competition for which the goal is: given an image of simpsons and a natural language question about the image, the task is to provide an accurate natural language answer using machine learning and deep learning. The challenge is designed to provide students with the opportunity to work as team members, to compete with each other, and to enhance the student learning experience by improving their AI modeling, problem-solving, and team-working skills.
+The **Deakin Simpsons challenge 2022** is a computer vision competition for which the goal is: 
+
+```
+Given an image of Simpsons and a natural language question about the image, the task is to provide an accurate natural 
+language answer using machine learning and deep learning. 
+```
+
+The challenge is designed to provide students with the opportunity to work as team members, to compete with each other, and to enhance the student learning experience by improving their AI modeling, problem-solving, and team-working skills.
 
 
 
