@@ -72,7 +72,7 @@ if __name__ == "__main__":
     print("Top 20 tokens in the vocabulary: ", token_to_num.get_vocabulary()[:20])
 
     # Read test dataset
-    imgs_path_test = input_dir + 'simpsons_test_phase1/'
+    imgs_path_test = input_dir + '/simpsons_test_phase1/'
     q_val_file = imgs_path_test + 'OpenEnded_abstract_v002_test2015_questions.json'
     q_test = json.load(open(q_val_file))
 
