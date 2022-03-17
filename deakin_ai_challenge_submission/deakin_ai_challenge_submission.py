@@ -142,6 +142,6 @@ if __name__ == "__main__":
         y_predict = np.argmax(y_proba, axis=1)
 
     # Writting predictions to file.
-    with open(os.path.join(output_dir, 'answer.txt'), 'w') as result_file:
+    with open(os.path.join(output_dir, 'answers.txt'), 'w') as result_file:
         for i in range(len(y_predict)):
             result_file.write(str(q_ids_test[i]) + ',' + answers[y_predict[i]] + '\n')
