@@ -178,7 +178,7 @@ The **Deakin Simpsons Challenge 2022** is organized by the [School of Informatio
 
 - **[Mohamed Reda Bouadjenek](https://rbouadjenek.github.io/)** - Organization, technical design, development, and data preparation.
 - **[Sunil Aryal](https://sunilaryal.github.io/)** - technical design, and support to students.
-- **Rita Wu** - Organization and support.
+- **Rita Wu** - organization and support.
 - **Muhammad Zeeshan Khan** - data labeling and support to students.
 - **Vinayaka Vivekananda Malgi** - data labeling and support to students.
 
