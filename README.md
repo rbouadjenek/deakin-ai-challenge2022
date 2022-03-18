@@ -47,7 +47,6 @@ As participants, your goal is to build a machine learning model to  answer a  na
  ]
 ```
 
-To achieve this task, you will be using machine learning/deep learning to build, train, and tune your model. 
 
 Once you have built your model, you will have to submit it on the [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/317?secret_key=1aab176a-2a97-46da-a214-711ff65b7e01) platform to be evaluated. 
 We evaluate the performance of your model using the [Accuracy](https://visualqa.org/evaluation.html)  on a private test set that we have directly collected and labeled from TV show episodes.
