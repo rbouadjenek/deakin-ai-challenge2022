@@ -159,9 +159,8 @@ Please [register for the Webinar here](https://www.eventbrite.com.au/e/deakin-si
 
 # References<a name="References"></a>
 
-- [The Simpsons characters recognition and detection using Keras](https://medium.com/alex-attia-blog/the-simpsons-character-recognition-using-keras-d8e1796eae36).
-- [Image data preprocessing](https://keras.io/api/preprocessing/image/).
-- [Pre-trained models](https://keras.io/api/applications/).
+- [VQA: Visual Question Ansewering](https://visualqa.org/).
+- [VQA: Visual Question Answering (ICCV 2015)](https://arxiv.org/pdf/1505.00468.pdf).
 
 
 # Acknowledgment<a name="Acknowledgment"></a>
