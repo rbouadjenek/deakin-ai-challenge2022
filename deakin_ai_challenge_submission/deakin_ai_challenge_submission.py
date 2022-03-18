@@ -72,8 +72,8 @@ if __name__ == "__main__":
     print("Top 20 tokens in the vocabulary: ", token_to_num.get_vocabulary()[:20])
 
     # Read test dataset
-    imgs_path_test = input_dir + '/simpsons_test_phase1/'
-    q_val_file = imgs_path_test + 'OpenEnded_abstract_v002_test2015_questions.json'
+    imgs_path_test = input_dir + '/simpsons_test/'
+    q_val_file = imgs_path_test + 'questions.json'
     q_test = json.load(open(q_val_file))
 
 
@@ -92,15 +92,14 @@ if __name__ == "__main__":
             q_text = q_text.replace(',', ' . ')
             q_text = q_text.replace('!', ' . ').strip()
             q_out.append(q_text)
-            file_name = str(q['image_id'])
-            while len(file_name) != 12:
-                file_name = '0' + file_name
-            file_name = imgs_path + questions['data_type'] + '_' + questions['data_subtype'] + '_' + file_name + '.png'
+            file_name = imgs_path + str(q['image_id']) + '.png'
             imgs_out.append(file_name)
             q_ids.append(q['question_id'])
         return imgs_out, q_out, q_ids
 
+
     imgs_test, q_test, q_ids_test = preprocessing(q_test, imgs_path_test)
+
 
     def encode_single_sample(img_file, q):
         ###########################################
@@ -123,6 +122,7 @@ if __name__ == "__main__":
         q = token_to_num(word_splits)
         # 7. Return an inputs to for the model
         return (img, q), 0
+
 
     # We define the batch size
     batch_size = 64
