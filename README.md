@@ -10,9 +10,9 @@
 The **Deakin Simpsons challenge 2022** is a computer vision competition for which the goal is: 
 
 
-> Given an image of Simpsons and a natural language question about the image, 
+> **Given an image of Simpsons and a natural language question about the image, 
 the task is to provide an accurate natural language answer using machine 
-learning and deep learning. 
+learning and deep learning.**
 
 
 The challenge is designed to provide students with the opportunity to work as team members, to compete with each other, and to enhance the student learning experience by improving their AI modeling, problem-solving, and team-working skills.
@@ -34,7 +34,19 @@ The challenge is designed to provide students with the opportunity to work as te
 
 # About the task <a name="introduction"></a>
 
-As participants, your goal is to build a machine learning model to  answer a  natural language question given an image of Simpsons using machine learning and deep learning.
+As participants, your goal is to build a machine learning model to  answer a  natural language question given an image of Simpsons using machine learning and deep learning. Answers have to be picked from this list:
+
+```python
+
+          ['yes','no', # Yes/No
+           '0','1','2','3','4','5', # Numbers
+           'black','white','red','yellow','brown','blue','gray','green','orange', # Colors
+           'right','left','woman','man','day','night','open','closed','top','down','fire','water',
+           'glasses','glass','tree','tv','table','couch','book','car','ball', # Objects
+           'happy','sad','laughing', # Expressions
+           'eating','drinking','playing','walking','reading','cooking','sitting','standing','sleeping' # Actions
+           ]
+```
 
 To achieve this task, you will be using the [VQA v2.0 dataset](https://visualqa.org/download.html) to train your model and tune your hyperparameters. 
 
