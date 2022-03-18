@@ -100,9 +100,7 @@ if __name__ == "__main__":
             q_ids.append(q['question_id'])
         return imgs_out, q_out, q_ids
 
-
     imgs_test, q_test, q_ids_test = preprocessing(q_test, imgs_path_test)
-
 
     def encode_single_sample(img_file, q):
         ###########################################
@@ -123,12 +121,11 @@ if __name__ == "__main__":
         word_splits = tf.strings.split(q, sep=" ")
         # 6. Map tokens to indices
         q = token_to_num(word_splits)
-        # 7. Return a inputs to for the model
-        return [img, q]
-
+        # 7. Return an inputs to for the model
+        return (img, q), 0
 
     # We define the batch size
-    batch_size = 1000
+    batch_size = 64
     # Define the test dataset
     test_dataset = tf.data.Dataset.from_tensor_slices((imgs_test, q_test))
     test_dataset = (test_dataset.map(encode_single_sample, num_parallel_calls=tf.data.AUTOTUNE)
@@ -137,9 +134,8 @@ if __name__ == "__main__":
                     )
 
     # Making predictions!
-    for batch in test_dataset.take(1):
-        y_proba = model_loaded.predict(batch)
-        y_predict = np.argmax(y_proba, axis=1)
+    y_proba = model_loaded.predict(test_dataset)
+    y_predict = np.argmax(y_proba, axis=1)
 
     # Writting predictions to file.
     with open(os.path.join(output_dir, 'answers.txt'), 'w') as result_file:
