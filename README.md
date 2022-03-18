@@ -37,7 +37,6 @@ The challenge is designed to provide students with the opportunity to work as te
 As participants, your goal is to build a machine learning model to  answer a  natural language question given an image of Simpsons using machine learning and deep learning. Answers have to be picked from this list:
 
 ```python
-
 ['yes','no', # Yes/No
  '0','1','2','3','4','5', # Numbers
  'black','white','red','yellow','brown','blue','gray','green','orange', # Colors
