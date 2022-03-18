@@ -38,14 +38,14 @@ As participants, your goal is to build a machine learning model to  answer a  na
 
 ```python
 
-          ['yes','no', # Yes/No
-           '0','1','2','3','4','5', # Numbers
-           'black','white','red','yellow','brown','blue','gray','green','orange', # Colors
-           'right','left','woman','man','day','night','open','closed','top','down','fire','water',
-           'glasses','glass','tree','tv','table','couch','book','car','ball', # Objects
-           'happy','sad','laughing', # Expressions
-           'eating','drinking','playing','walking','reading','cooking','sitting','standing','sleeping' # Actions
-           ]
+['yes','no', # Yes/No
+ '0','1','2','3','4','5', # Numbers
+ 'black','white','red','yellow','brown','blue','gray','green','orange', # Colors
+ 'right','left','woman','man','day','night','open','closed','top','down','fire','water',
+ 'glasses','glass','tree','tv','table','couch','book','car','ball', # Objects
+ 'happy','sad','laughing', # Expressions
+ 'eating','drinking','playing','walking','reading','cooking','sitting','standing','sleeping' # Actions
+ ]
 ```
 
 To achieve this task, you will be using the [VQA v2.0 dataset](https://visualqa.org/download.html) to train your model and tune your hyperparameters. 
