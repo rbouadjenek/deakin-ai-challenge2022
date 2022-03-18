@@ -58,13 +58,13 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 TBD.
 
 # Timeline <a name="Timeline"></a>
-- `XX.03.22:` Contest and Phase 1 Begin (Validation Leaderboard opens).
-- `XX.03.22:` [Join the Webinar at X:XX PM to review procedures and for a live Q&A session]().
-- `XX.05.22:` Phase 2 Begin (Testing Leaderboard opens) 🚨 **ONLY TWO SUBMISSIONS IS ALLOWED FOR THE TEST PHASE! PLEASE MAKE SURE TO SUBMIT YOUR BEST MODEL FROM  PHASE 1!** 🚨.
-- `XX.05.22:` Last Shot & Contest End (Testing Leaderboard closes).
-- `XX.05.22:` Semi-Finalists Announcement (top six teams on the Testing Leaderboard).
-- `XX.06.22:` Report & Code Due.
-- `XX.06.22:` Winners Announcement.
+- `30.03.22:` Contest and Phase 1 Begin (Validation Leaderboard opens).
+- `30.03.22:` [Join the Webinar at 6:00 PM to review procedures and for a live Q&A session]().
+- `15.05.22:` Phase 2 Begin (Testing Leaderboard opens) 🚨 **ONLY TWO SUBMISSIONS IS ALLOWED FOR THE TEST PHASE! PLEASE MAKE SURE TO SUBMIT YOUR BEST MODEL FROM  PHASE 1!** 🚨.
+- `22.05.22:` Last Shot & Contest End (Testing Leaderboard closes).
+- `23.05.22:` Semi-Finalists Announcement (top six teams on the Testing Leaderboard).
+- `05.06.22:` Report & Code Due.
+- `17.06.22:` Winners Announcement.
 
 # Eligibility<a name="Eligibility"></a>
 
@@ -131,7 +131,7 @@ We wish you all the best!
 
 
 
-JOIN the **Deakin Simpsons Challenge 2022** Webinar on **XXX, March XXth at XX:XX PM**. This webinar will review procedures and tips for participating and offer a live Q&A session with the challenge organizers and AI experts.
+JOIN the **Deakin Simpsons Challenge 2022** Webinar on **Wednesday, March 30th at 18:00 PM**. This webinar will review procedures and tips for participating and offer a live Q&A session with the challenge organizers and AI experts.
 
 Please [register for the Webinar here]()!
 
