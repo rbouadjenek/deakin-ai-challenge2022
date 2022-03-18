@@ -47,7 +47,7 @@ As participants, your goal is to build a machine learning model to  answer a  na
  ]
 ```
 
-To achieve this task, you will be using the [VQA v2.0 dataset](https://visualqa.org/download.html) to train your model and tune your hyperparameters. 
+To achieve this task, you will be using machine learning/deep learning to build, train, and tune your model. 
 
 Once you have built your model, you will have to submit it on the [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/317?secret_key=1aab176a-2a97-46da-a214-711ff65b7e01) platform to be evaluated. 
 We evaluate the performance of your model using the [Accuracy](https://visualqa.org/evaluation.html)  on a private test set that we have directly collected and labeled from TV show episodes.
@@ -62,7 +62,7 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 4. `Designing the model:` The forth step consists of designing an architecture for the task.
 5. `Traning:` The fifth step consists of starting the training process.
 6. `Monitoring:` The sixth step consists of monitoring the traning process to investigate possible overfitting.
-7. `Submission:` The seventh and last step will take you through the submission process.
+7. `Submitting:` The seventh and last step will take you through the submission process.
 
 # Winners <a name="winners"></a>
 
