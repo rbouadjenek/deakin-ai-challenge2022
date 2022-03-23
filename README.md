@@ -78,7 +78,7 @@ TBD.
 
 # Eligibility<a name="Eligibility"></a>
 
-The competition is open to all Deakin's students enrolled in a course within the School of IT. Also, in order to be eligible for any award, the semi-finalists are required to:
+The competition is open to all **Deakin's students**. Also, in order to be eligible for any award, the semi-finalists are required to:
 
 - 🚨 Submit your model to the test leaderboard.
 - 🚨 Submit a report, which describes the solution by the stipulated deadline  (4 pages **maximum**, using the [Master Article Template – LaTeX](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt), with the “sigconf” option). Please use the following [easychair link]() to submit your report. The reports will eventually be made publicly available on the website.
