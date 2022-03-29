@@ -46,15 +46,7 @@ if __name__ == "__main__":
         try:
             answers = f.attrs['class_names']
         except:
-            answers = ['yes', 'no', '0', '1', '2', '3', '4', '5',  # Numbers
-                       'black', 'white', 'red', 'yellow', 'brown', 'blue', 'gray', 'green', 'orange',  # Colors
-                       'right', 'left', 'woman', 'man', 'day', 'night', 'open', 'closed', 'top', 'down', 'fire',
-                       'water',
-                       'glasses', 'glass', 'tree', 'tv', 'table', 'couch', 'book', 'car', 'ball',  # Objects
-                       'happy', 'sad', 'laughing',  # Expressions
-                       'eating', 'drinking', 'playing', 'walking', 'reading', 'cooking', 'sitting', 'standing',
-                       'sleeping'  # Actions
-                       ]
+            answers = ['yes', 'no']
 
     input_shape = model_loaded.input_shape
     image_size = np.array(input_shape[0][1:3])
