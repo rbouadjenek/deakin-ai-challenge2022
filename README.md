@@ -34,19 +34,7 @@ The challenge is designed to provide students with the opportunity to work as te
 
 # About the task <a name="introduction"></a>
 
-As participants, your goal is to build a machine learning model to  answer a  natural language question given an image of Simpsons using machine learning and deep learning. Answers have to be picked from this list:
-
-```python
-['yes','no', # Yes/No
- '0','1','2','3','4','5', # Numbers
- 'black','white','red','yellow','brown','blue','gray','green','orange', # Colors
- 'right','left','woman','man','day','night','open','closed','top','down','fire','water',
- 'glasses','glass','tree','tv','table','couch','book','car','ball', # Objects
- 'happy','sad','laughing', # Expressions
- 'eating','drinking','playing','walking','reading','cooking','sitting','standing','sleeping' # Actions
- ]
-```
-
+As participants, your goal is to build a machine learning model to  answer a  natural language **Yes** or **No** question  given an image of Simpsons using machine learning and deep learning. 
 
 Once you have built your model, you will have to submit it on the [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/317?secret_key=1aab176a-2a97-46da-a214-711ff65b7e01) platform to be evaluated. 
 We evaluate the performance of your model using the [Accuracy](https://visualqa.org/evaluation.html)  on a private test set that we have directly collected and labeled from TV show episodes.
