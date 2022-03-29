@@ -34,7 +34,7 @@ The challenge is designed to provide students with the opportunity to work as te
 
 # About the task <a name="introduction"></a>
 
-As participants, your goal is to build a machine learning model to  answer a  natural language **Yes** or **No** question  given an image of Simpsons using machine learning and deep learning. 
+As participants, your goal is to build a machine learning model to  answer a natural language **Yes**/**No** question  given an image of Simpsons using machine learning and deep learning. 
 
 Once you have built your model, you will have to submit it on the [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/317?secret_key=1aab176a-2a97-46da-a214-711ff65b7e01) platform to be evaluated. 
 We evaluate the performance of your model using the [Accuracy](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html)  on a private test set that we have directly collected and labeled from TV show episodes.
