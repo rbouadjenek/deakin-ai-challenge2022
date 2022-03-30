@@ -117,7 +117,7 @@ if __name__ == "__main__":
 
 
     # We define the batch size
-    batch_size = 64
+    batch_size = 1
     # Define the test dataset
     test_dataset = tf.data.Dataset.from_tensor_slices((imgs_test, q_test))
     test_dataset = (test_dataset.map(encode_single_sample, num_parallel_calls=tf.data.AUTOTUNE)
