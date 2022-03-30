@@ -139,7 +139,7 @@ JOIN the **Deakin Simpsons Challenge 2022** Webinar on **Wednesday, March 30th a
 Please [register for the Webinar here](https://www.eventbrite.com.au/e/deakin-simpsons-challenge-2022-webinar-tickets-301187057597)!
 
 
-[Link to the Webinar recording!]()
+[Link to the Webinar recording!](https://deakin.zoom.us/rec/share/XU_z7xMbIi0Yy6iGRImLRi6_DYlT4J2NvpKLOjo_NViIPsEzxjTC32xbMrYLBn5x.JKxhujcpOaDz8Sfw?startTime=1648623738000)
 
 
 
