@@ -58,11 +58,11 @@ TBD.
 # Timeline <a name="Timeline"></a>
 - `30.03.22:` Contest and Phase 1 Begin (Validation Leaderboard opens).
 - `30.03.22:` [Join the Webinar at 6:00 PM to review procedures and for a live Q&A session](https://www.eventbrite.com.au/e/deakin-simpsons-challenge-2022-webinar-tickets-301187057597).
-- <s> 15.05.22</s> `17.07.22:` Phase 2 Begin (Testing Leaderboard opens) 🚨 **ONLY TWO SUBMISSIONS ARE ALLOWED FOR THE TEST PHASE! PLEASE MAKE SURE TO SUBMIT YOUR BEST MODEL FROM  PHASE 1!** 🚨.
-- <s>22.05.22</s> `24.07.22:` Last Shot & Contest End (Testing Leaderboard closes).
-- <s>23.05.22</s> `25.07.22:` Semi-Finalists Announcement (top six teams on the Testing Leaderboard).
-- <s>05.06.22</s> `07.08.22:` Report & Code Due.
-- <s>17.06.22</s> `19.08.22:` Winners Announcement.
+- <s> 15.05.22</s> `24.07.22:` Phase 2 Begin (Testing Leaderboard opens) 🚨 **ONLY TWO SUBMISSIONS ARE ALLOWED FOR THE TEST PHASE! PLEASE MAKE SURE TO SUBMIT YOUR BEST MODEL FROM  PHASE 1!** 🚨.
+- <s>22.05.22</s> `31.07.22:` Last Shot & Contest End (Testing Leaderboard closes).
+- <s>23.05.22</s> `01.08.22:` Semi-Finalists Announcement (top six teams on the Testing Leaderboard).
+- <s>05.06.22</s> `14.08.22:` Report & Code Due.
+- <s>17.06.22</s> `26.08.22:` Winners Announcement.
 
 # Eligibility<a name="Eligibility"></a>
 
