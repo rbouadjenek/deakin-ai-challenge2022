@@ -56,8 +56,8 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 TBD.
 
 # Timeline <a name="Timeline"></a>
-- `30.03.22:` Contest and Phase 1 Begin (Validation Leaderboard opens).
-- `30.03.22:` [Join the Webinar at 6:00 PM to review procedures and for a live Q&A session](https://www.eventbrite.com.au/e/deakin-simpsons-challenge-2022-webinar-tickets-301187057597).
+- <s>30.03.22: Contest and Phase 1 Begin (Validation Leaderboard opens).</s>
+- <s>30.03.22: [Join the Webinar at 6:00 PM to review procedures and for a live Q&A session](https://www.eventbrite.com.au/e/deakin-simpsons-challenge-2022-webinar-tickets-301187057597).</s>
 - <s> 15.05.22</s> `24.07.22:` Phase 2 Begin (Testing Leaderboard opens) 🚨 **ONLY TWO SUBMISSIONS ARE ALLOWED FOR THE TEST PHASE! PLEASE MAKE SURE TO SUBMIT YOUR BEST MODEL FROM  PHASE 1!** 🚨.
 - <s>22.05.22</s> `31.07.22:` Last Shot & Contest End (Testing Leaderboard closes).
 - <s>23.05.22</s> `01.08.22:` Semi-Finalists Announcement (top six teams on the Testing Leaderboard).
