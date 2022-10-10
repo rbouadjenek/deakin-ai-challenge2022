@@ -54,7 +54,7 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 # Winners <a name="winners"></a>
 
 The winners of the competition are:
-1. **Jess** (Accuracy = 70.40) [[report](https://rbouadjenek.github.io/deakin-ai-challenge2022/reports/1-%20Jess.pdf)[[code](https://github.com/JessieHex/SimpsonsVQA)] 🥇
+1. **Jess** (Accuracy = 70.40) [[report](https://rbouadjenek.github.io/deakin-ai-challenge2022/reports/1-%20Jess.pdf)][[code](https://github.com/JessieHex/SimpsonsVQA)] 🥇
 2. **peterja555** (Accuracy = 56.40) [[report]()] [[code]()] 🥈
 3. **Strawman001** (Accuracy = 55.20) [[report](https://rbouadjenek.github.io/deakin-ai-challenge2022/reports/3-%20BUGS.pdf)] [[code](https://github.com/strawman001/Competition)] 🥉
 4. **Xiaolumang** (Accuracy = 54.00) [[report](https://rbouadjenek.github.io/deakin-ai-challenge2022/reports/4-%20Xiaolumang.pdf)] [[code](https://github.com/Xiaolumang/deakin-ai-challenge2022)] 🎁
